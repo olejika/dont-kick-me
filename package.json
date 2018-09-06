@@ -1,12 +1,13 @@
 {
-    "name": "DontKickMe",
-    "description": "",
-    "version": "0.0.0",
+    "name": "greeter-bot",
+    "version": "1.0.0",
+    "description": "My own Discord bot",
     "main": "bot.js",
+    "author": "olejika",
     "scripts": {
         "start": "node bot.js"
     },
     "dependencies": {
         "discord.js": "11.4.2"
-    },
+   },
 }
